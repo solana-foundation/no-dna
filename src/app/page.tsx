@@ -108,8 +108,17 @@ bool is_agent = (no_dna != NULL && no_dna[0] != '\\0');`}</code>
             </thead>
             <tbody className="text-neutral-600">
               <tr className="border-b border-neutral-100">
-                <td className="py-2 pr-4">Anchor</td>
+                <td className="py-2 pr-4">
+                  <a href="https://github.com/coral-xyz/anchor" className="underline hover:text-neutral-900">Anchor</a>
+                </td>
                 <td className="py-2 pr-4">Solana development framework</td>
+                <td className="py-2">2026</td>
+              </tr>
+              <tr className="border-b border-neutral-100">
+                <td className="py-2 pr-4">
+                  <a href="https://github.com/solana-foundation/surfpool" className="underline hover:text-neutral-900">Surfpool</a>
+                </td>
+                <td className="py-2 pr-4">Solana development environment</td>
                 <td className="py-2">2026</td>
               </tr>
             </tbody>
