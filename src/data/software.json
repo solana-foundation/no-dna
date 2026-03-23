@@ -6,6 +6,12 @@
     "since": 2026
   },
   {
+    "name": "create-seed",
+    "url": "https://github.com/create-seed/create-seed",
+    "category": "Project scaffolding CLI",
+    "since": 2026
+  },
+  {
     "name": "Surfpool",
     "url": "https://github.com/solana-foundation/surfpool",
     "category": "Solana development environment",
