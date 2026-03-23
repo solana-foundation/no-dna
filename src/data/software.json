@@ -12,9 +12,21 @@
     "since": 2026
   },
   {
+    "name": "create-seed",
+    "url": "https://github.com/create-seed/create-seed",
+    "category": "Project scaffolding CLI",
+    "since": 2026
+  },
+  {
     "name": "Agent Messenger",
     "url": "https://github.com/Sortis-AI/am",
     "category": "Encrypted private messaging",
+    "since": 2026
+  },
+  {
+    "name": "Tributary",
+    "url": "https://github.com/tributary-so/tributary",
+    "category": "Subscription and Pay-as-you-go payments on Solana",
     "since": 2026
   }
 ]
