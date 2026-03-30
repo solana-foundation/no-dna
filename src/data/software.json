@@ -24,6 +24,12 @@
     "since": 2026
   },
   {
+    "name": "Agent X",
+    "url": "https://github.com/Sortis-AI/ax",
+    "category": "OAuth2 compatible X.com/Twitter command line for agents",
+    "since": 2026
+  },
+  {
     "name": "Tributary",
     "url": "https://github.com/tributary-so/tributary",
     "category": "Subscription and Pay-as-you-go payments on Solana",
