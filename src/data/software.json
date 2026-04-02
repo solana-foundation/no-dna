@@ -19,13 +19,19 @@
   },
   {
     "name": "Agent Messenger",
-    "url": "https://github.com/Sortis-AI/am",
+    "url": "https://github.com/Sortis-AI/agent-messenger",
     "category": "Encrypted private messaging",
     "since": 2026
   },
   {
+    "name": "Agent Wallet",
+    "url": "https://github.com/Sortis-AI/agent-wallet",
+    "category": "Agentic payments and treasury management.",
+    "since": 2026
+  },
+  {
     "name": "Agent X",
-    "url": "https://github.com/Sortis-AI/ax",
+    "url": "https://github.com/Sortis-AI/agent-x",
     "category": "OAuth2 compatible X.com/Twitter command line for agents",
     "since": 2026
   },
